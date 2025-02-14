@@ -1,0 +1,265 @@
+{
+  "version": "0.0.1",
+  "phone": [
+    {
+      "isDefault": true,
+      "index": 0,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_001.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 1,
+      "which": 2,
+      "screen": 0,
+      "type": 8,
+      "filename": "video_black.mp4",
+      "frame_no": 0,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 2,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_002.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 3,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_003.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 4,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_004.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 5,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_005.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 6,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_006.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 7,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_007.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 8,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_008.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 9,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_009.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 10,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_010.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 11,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_011.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 12,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_012.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 13,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_013.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 14,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_014.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 15,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_015.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 16,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_016.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 17,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_017.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 18,
+      "which": 1,
+      "screen": 0,
+      "type": 0,
+      "filename": "wallpaper_018.png",
+      "frame_no": -1,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 19,
+      "which": 2,
+      "screen": 0,
+      "type": 8,
+      "filename": "video_black_s20fe.mp4",
+      "frame_no": 0,
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": true,
+      "index": 20,
+      "which": 2,
+      "screen": 0,
+      "type": 8,
+      "filename": "video_bubbles.mp4",
+      "frame_no": 0,
+      "cmf_info": [
+        ""
+      ]
+    }
+  ],
+  "dex": [],
+  "types": [
+    {
+      "which": 2,
+      "screen": 0,
+      "type": 8
+    }
+  ]
+}

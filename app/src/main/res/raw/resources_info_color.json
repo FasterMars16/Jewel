@@ -1,0 +1,128 @@
+{
+  "version": "0.0.1",
+  "phone": [
+    {
+      "isDefault": false,
+      "index": 0,
+      "type": 11,
+      "filename": "color_background.jpg",
+      "type_params": {
+        "color_style" : "gradation",
+        "color_style_sub" : "bright",
+        "color_code" : "#ffff6464"
+      },
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 1,
+      "type": 11,
+      "filename": "color_background.jpg",
+      "type_params": {
+        "color_style" : "gradation",
+        "color_style_sub" : "dark",
+        "color_code" : "#ff3c8aff"
+      },
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 2,
+      "type": 11,
+      "filename": "color_background.jpg",
+      "type_params": {
+        "color_style" : "gradation",
+        "color_style_sub" : "vibrant",
+        "color_code" : "#ffff8f29"
+      },
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 3,
+      "type": 11,
+      "filename": "color_background.jpg",
+      "type_params": {
+        "color_style" : "solid",
+        "color_code" : "#ff32d1ff"
+      },
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 4,
+      "type": 11,
+      "filename": "color_background.jpg",
+      "type_params": {
+        "color_style" : "solid",
+        "color_code" : "#ff283949"
+      },
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 5,
+      "type": 11,
+      "filename": "color_background.jpg",
+      "type_params": {
+        "color_style" : "solid",
+        "color_code" : "#ffdcff39"
+      },
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 6,
+      "type": 11,
+      "filename": "pattern_500_001.jpg",
+      "type_params": {
+        "color_style" : "pattern",
+        "color_style_sub" : "pattern1",
+        "color_code" : "#ffc563ff"
+      },
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 7,
+      "type": 11,
+      "filename": "pattern_500_002.jpg",
+      "type_params": {
+        "color_style" : "pattern",
+        "color_style_sub" : "pattern2",
+        "color_code" : "#ffff66a1"
+      },
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 8,
+      "type": 11,
+      "filename": "pattern_500_003.jpg",
+      "type_params": {
+        "color_style" : "pattern",
+        "color_style_sub" : "pattern3",
+        "color_code" : "#ff3c8aff"
+      },
+      "cmf_info": [
+        ""
+      ]
+    }
+  ]
+}

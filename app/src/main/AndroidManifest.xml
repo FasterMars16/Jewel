@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="33"
+    android:versionName="13"
+    android:compileSdkVersion="33"
+    android:compileSdkVersionCodename="13"
+    package="com.samsung.android.wallpaper.res" >
+
+    <uses-sdk
+        android:minSdkVersion="33"
+        android:targetSdkVersion="33" />
+
+</manifest>

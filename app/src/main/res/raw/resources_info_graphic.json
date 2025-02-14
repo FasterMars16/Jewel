@@ -1,0 +1,32 @@
+{
+  "version": "0.0.1",
+  "phone": [
+    {
+      "isDefault": false,
+      "index": 0,
+      "type": 12,
+      "filename": "oneui5_graphical_001.png",
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 1,
+      "type": 12,
+      "filename": "oneui5_graphical_002.png",
+      "cmf_info": [
+        ""
+      ]
+    },
+    {
+      "isDefault": false,
+      "index": 2,
+      "type": 12,
+      "filename": "oneui5_graphical_003.png",
+      "cmf_info": [
+        ""
+      ]
+    }
+  ]
+}
