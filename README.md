@@ -1,16 +1,21 @@
-# 📖 About Jewel
+![jewel_title](https://github.com/user-attachments/assets/30014535-9143-43f3-acd0-787448aa753a)
+# 📖 About
 
 This module expands the selection of wallpapers in Samsung's Wallpaper & Style app by adding a collection of Samsung wallpapers. Designed for Samsung devices running OneUI, it seamlessly integrates new wallpapers right into the app. Perfect for users looking to personalize their device with fresh, official wallpapers. Easy to install and fully reversible. Contains live & static wallpapers from a variety of Samsung devices. Enhance your Samsung experience with more aesthetic options!
 
 <ins>**Note**</ins> : This module is still a work in progress, feel free to contribute by submitting a pull request, or suggesting wallpapers to add in [the issues page](https://github.com/FasterMars16/Jewel/issues) labelled with the **_suggestion_** tag
 
-##  Compatibility
+## ⚙️ Compatibility
+- KernelSU / Legacy / Next
+- Magisk / Kitsune / Alpha
+- Apatch (Untested)
 
-Tested on 
-- KernelSU v1.0.4
-- Magisk v28.1
+## 🔗 Requirements
 
-###  Current Status
+- Magisk 20+ / KernelSU
+- OneUI 5+ (Android 13)
+
+## 📋 Current Status
 
 | S2x Series | Availability |
 | -------------- | ------------- |
@@ -65,10 +70,5 @@ Tested on
 | M55 | ✔️ Full |
 
 So far, only these wallpapers have been added, there's plans for adding more along the way, so stay tuned!
-
-### Requirements
-
-- Magisk 20+ / KernelSU
-- OneUI 5+ (Android 13)
 
 For the long term, a seperate module for OneUI versions below 5 is planned.
